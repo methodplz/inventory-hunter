@@ -1,0 +1,13 @@
+---
+alerters:
+  discord:
+    webhook_url: https://discord.com/api/webhooks/789778940008595466/tqIPlIfuqHKqtO0v79Y3oAOp7XZNoeS5mC3_sSnV5ldB25xuOtObyH-tR4fp-x1lhJU2
+    mentions:
+      - @method#3916
+  email:
+    sender: slappintwinkies@gmail.com
+    recipients:
+      - matttnelson1997@gmail.com
+      - slappintwinkies@gmail.com
+    relay: 127.0.0.1
+---
